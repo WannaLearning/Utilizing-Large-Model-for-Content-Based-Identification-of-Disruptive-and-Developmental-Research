@@ -1,3 +1,8 @@
+# Utilizing Large Language Model for Content-Based Identification of Disruptive and Developmental Research
+
+
+
+
 **Table 8. Results on papers published in JAMA**  
 (1) Anxiety and Depression Symptoms After the Dobbs Abortion Decision  
 (2) Changes in Health Care Workers’ Economic Outcomes Following Medicaid Expansion
