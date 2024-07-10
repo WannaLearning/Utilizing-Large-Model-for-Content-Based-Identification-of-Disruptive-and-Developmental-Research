@@ -1,7 +1,24 @@
 # Utilizing Large Language Model for Content-Based Identification of Disruptive and Developmental Research
 
+## Nobel evaluation dataset  
+We proposed the Nobel Prize paper evaluation dataset, which includes 80 Nobel Prize papers , 76 other papers authored by Nobel laureates, and 209 random papers. 
 
+<p align="center">
+  <img src="https://github.com/WannaLearning/Identifying-disruptive-and-developmental-research-based-purely-on-research-content/blob/main/Figures-git/nobel%20evaluation%20dataset.png" width="60%" alt="Construction process of the Nobel Prize paper evaluation dataset"/>
+</p>
+<div align="center">
+  Figure 2 Construction process of the Nobel Prize paper evaluation dataset
+</div>  
 
+## The newly published paper evaluation dataset  
+We collected 170 recently published papers, most of which were published in 2023 or 2024, to form the newly published paper evaluation dataset (\mathcal{D}_\mathcal{L}). As shown in Figure 3, we randomly selected newly published papers from the official homepages of distinct biomedicine journals. Specifically, we collected 22 papers from JAMA, BMJ Open, Journal of Clinical Medicine (JCM), American Journal of Epidemiology (AJE), and Medical Science Monitor (MSM), respectively. We also gathered 22 papers from Cell and its sub-journals, along with 38 papers from The Lancet and its sub-journals. JAMA, Cell, and The Lancet are top journals with higher IF, while the others are general journals with lower IF.
+
+<p align="center">
+  <img src="https://github.com/WannaLearning/Identifying-disruptive-and-developmental-research-based-purely-on-research-content/blob/main/Figures-git/newly%20published%20papers%20evaluation%20dataset.png" width="45%" alt="Construction process of the newly published paper evaluation dataset"/>
+</p>
+<div align="center">
+  Figure 2 Construction process of the newly published paper evaluation dataset
+</div>  
 
 **Table 8. Results on papers published in JAMA**  
 (1) Anxiety and Depression Symptoms After the Dobbs Abortion Decision  
