@@ -26,7 +26,10 @@ We collected 170 recently published papers, most of which were published in 2023
   Figure 3 Construction process of the newly published paper evaluation dataset
 </div>  
 
-## The titles of the newly published papers
+
+Based on the dataset, we demonstrated that our model identifies papers published in the top-tier journals as potentially disruptive and developmental research and those published in the general journals as general research. This aligns with the intuition that high-quality papers usually are published in journals with high IF. These results can be found in Tables 8-14，where "MOST VIEWED", "MOST CITED" or "Highly Accessed" are displayed in bold black.
+
+****
 **Table 8. Results on papers published in *JAMA*(https://jamanetwork.com/)**  
 | Id| Title  |Type|
 | ------------- | ------------- | ------------- |
@@ -40,18 +43,18 @@ We collected 170 recently published papers, most of which were published in 2023
 | 8  |Screening for Speech and Language Delay and Disorders in Children  |General |
 | 9  |Screening and Preventive Interventions for Oral Health in Adults |Disruptive |
 | 10 |Screening and Preventive Interventions for Oral Health in Children and Adolescents Aged 5 to 17 Years |General|
-| 11 |Apixaban to Prevent Recurrence After Cryptogenic Stroke in Patients With Atrial Cardiopathy |Developmental|
-| 12 |Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With ObesityThe SURMOUNT-4 Randomized Clinical Trial |Developmental|
-| 13 |Effect of Higher-Dose Ivermectin for 6 Days vs Placebo on Time to Sustained Recovery in Outpatients With COVID-19A Randomized Clinical Trial |Disruptive|
-| 14 |International Consensus Criteria for Pediatric Sepsis and Septic Shock |Developmental |
-| 15 |Neonatal Outcomes After COVID-19 Vaccination in Pregnancy |Disruptive|
-| 16 |RNA Interference With Zilebesiran for Mild to Moderate HypertensionThe KARDIA-1 Randomized Clinical Trial |Disruptive|
-| 17 |Characteristics and Outcomes of US Children and Adolescents With Multisystem Inflammatory Syndrome in Children (MIS-C) Compared With Severe Acute COVID-19 |Disruptive|
-| 18 |Effect of 2 Inactivated SARS-CoV-2 Vaccines on Symptomatic COVID-19 Infection in AdultsA Randomized Clinical Trial |Disruptive|
-| 19 |Pancreatic Cancer A Review |Disruptive|
-| 20 |Screening for Colorectal CancerUS Preventive Services Task Force Recommendation Statement |Disruptive|
-| 21 |Screening for Lung Cancer |Disruptive|
-| 22 |Strengthening the Reporting of Observational Studies in Epidemiology Using Mendelian RandomizationThe STROBE-MR Statement |Disruptive|
+| **11** |Apixaban to Prevent Recurrence After Cryptogenic Stroke in Patients With Atrial Cardiopathy |Developmental|
+| **12** |Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With ObesityThe SURMOUNT-4 Randomized Clinical Trial |Developmental|
+| **13** |Effect of Higher-Dose Ivermectin for 6 Days vs Placebo on Time to Sustained Recovery in Outpatients With COVID-19A Randomized Clinical Trial |Disruptive|
+| **14** |International Consensus Criteria for Pediatric Sepsis and Septic Shock |Developmental |
+| **15** |Neonatal Outcomes After COVID-19 Vaccination in Pregnancy |Disruptive|
+| **16** |RNA Interference With Zilebesiran for Mild to Moderate HypertensionThe KARDIA-1 Randomized Clinical Trial |Disruptive|
+| **17** |Characteristics and Outcomes of US Children and Adolescents With Multisystem Inflammatory Syndrome in Children (MIS-C) Compared With Severe Acute COVID-19 |Disruptive|
+| **18** |Effect of 2 Inactivated SARS-CoV-2 Vaccines on Symptomatic COVID-19 Infection in AdultsA Randomized Clinical Trial |Disruptive|
+| **19** |Pancreatic Cancer A Review |Disruptive|
+| **20** |Screening for Colorectal CancerUS Preventive Services Task Force Recommendation Statement |Disruptive|
+| **21** |Screening for Lung Cancer |Disruptive|
+| **22** |Strengthening the Reporting of Observational Studies in Epidemiology Using Mendelian RandomizationThe STROBE-MR Statement |Disruptive|
 
 **Table 9 Results on papers published in *The Lancet*(https://www.thelancet.com/)**  
 | Id| Title  |Type|
@@ -100,26 +103,26 @@ We collected 170 recently published papers, most of which were published in 2023
 | 16 |CRB1-associated retinal degeneration is dependent on bacterial translocation from the gut |Developmental|
 | 17 |Learning attentional templates for value-based decision-making |Disruptive|
 | 18 |A multivalent mRNA monkeypox virus vaccine (BNT166) protects mice and macaques from orthopoxvirus disease |Disruptive|
-| 19 |Xist ribonucleoproteins promote female sex-biased autoimmunity |Developmental|
-| 20 |A retroviral link to vertebrate myelination through retrotransposon-RNA-mediated control of myelin gene expression |Disruptive|
+| **19** |Xist ribonucleoproteins promote female sex-biased autoimmunity |Developmental|
+| **20** |A retroviral link to vertebrate myelination through retrotransposon-RNA-mediated control of myelin gene expression |Disruptive|
 | 21 |Inosine induces stemness features in CAR-T cells and enhances potency |Disruptive|
 | 22 |A comprehensive clinically informed map of dependencies in cancer cells and framework for target prioritization |Disruptive|
 | 23 |Interferon-stimulated neutrophils as a predictor of immunotherapy response |Disruptive|
 | 24 |Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enhanced stromal remodeling in high-risk patients |Disruptive|
 | 25 |PDGFRα+ITGA11+ fibroblasts foster early-stage cancer lymphovascular invasion and lymphatic metastasis via ITGA11-SELE interplay |Disruptive|
 | 26 |Retinoic acid receptor activation reprograms senescence response and enhances anti-tumor activity of natural killer cells |Disruptive|
-| 27 |A living biobank of patient-derived ductal carcinoma in situ mouse-intraductal xenografts identifies risk factors for invasive progression |Developmental|
-| 28 |Interferon-stimulated neutrophils as a predictor of immunotherapy response |Disruptive|
-| 29 |A comprehensive clinically informed map of dependencies in cancer cells and framework for target prioritization |Disruptive|
+| **27** |A living biobank of patient-derived ductal carcinoma in situ mouse-intraductal xenografts identifies risk factors for invasive progression |Developmental|
+| **28** |Interferon-stimulated neutrophils as a predictor of immunotherapy response |Disruptive|
+| **29** |A comprehensive clinically informed map of dependencies in cancer cells and framework for target prioritization |Disruptive|
 | 30 |Antiplasmodial peptaibols act through membrane directed mechanisms |Developmental|
 | 31 |PIM1 targeted degradation prevents the emergence of chemoresistance in prostate cancer |Developmental|
 | 32 |A sterol analog inhibits hedgehog pathway by blocking cholesterylation of smoothened |Developmental|
 | 33 |Allosteric inhibition of tRNA synthetase Gln4 by N-pyrimidinyl-β-thiophenylacrylamides exerts highly selective antifungal activity |Developmental|
 | 34 |CYP7B1-mediated 25-hydroxycholesterol degradation maintains quiescence-activation balance and improves therapeutic potential of mesenchymal stem cells |General|
-| 35 |Identification of differential biological activity and synergy between the PARP inhibitor rucaparib and its major metabolite |Disruptive|
-| 36 |Small molecule targeting of transcription-replication conflict for selective chemotherapy |Developmental|
-| 37 |The cyclimids: Degron-inspired cereblon binders for targeted protein degradation |Developmental|
-| 38 |PIM1 targeted degradation prevents the emergence of chemoresistance in prostate cancer |Developmental|
+| **35** |Identification of differential biological activity and synergy between the PARP inhibitor rucaparib and its major metabolite |Disruptive|
+| **36** |Small molecule targeting of transcription-replication conflict for selective chemotherapy |Developmental|
+| **37** |The cyclimids: Degron-inspired cereblon binders for targeted protein degradation |Developmental|
+| **38** |PIM1 targeted degradation prevents the emergence of chemoresistance in prostate cancer |Developmental|
 
 
 **Table 11 Results on papers published in *BMJ Open*(https://bmjopen.bmj.com/)**  
@@ -139,14 +142,14 @@ We collected 170 recently published papers, most of which were published in 2023
 | 12 |Is the awarding gap at UK medical schools influenced by ethnicity and medical school attended? A retrospective cohort study|Developmental|
 | 13 |Towards integrated mental health services in low-income and middle-income countries: organisation of primary healthcare providers – a scoping review protocol |General|
 | 14 |Use of drugs for hyperlipidaemia and diabetes and risk of primary and secondary brain tumours: nested case–control studies using the UK Clinical Practice Research Datalink (CPRD) |General |
-| 15 |Career intentions of medical students in the UK: a national, cross-sectional study (AIMS study) |Disruptive|
-| 16 |Does the advertisement in Swiss pharmacy windows rest on evidence-based medicine? An observational study |General|
-| 17 |Effect of multi-level interventions on mental health outcomes among adolescents in sub-Saharan Africa: a systematic review |General|
-| 18 |Global, regional and national burden of inflammatory bowel disease in 204 countries and territories from 1990 to 2019: a systematic analysis based on the Global Burden of Disease Study 2019 |Disruptive|
-| 19 |Impact of Long Covid on the school experiences of children and young people: a qualitative study |Developmental|
-| 20 |Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis |Disruptive|
-| 21 |Silver linings of ADHD: a thematic analysis of adults’ positive experiences with living with ADHD |General|
-| 22 |What are the treatment remission, response and extent of improvement rates after up to four trials of antidepressant therapies in real-world depressed patients? |Disruptive|
+| **15** |Career intentions of medical students in the UK: a national, cross-sectional study (AIMS study) |Disruptive|
+| **16** |Does the advertisement in Swiss pharmacy windows rest on evidence-based medicine? An observational study |General|
+| **17** |Effect of multi-level interventions on mental health outcomes among adolescents in sub-Saharan Africa: a systematic review |General|
+| **18** |Global, regional and national burden of inflammatory bowel disease in 204 countries and territories from 1990 to 2019: a systematic analysis based on the Global Burden of Disease Study 2019 |Disruptive|
+| **19** |Impact of Long Covid on the school experiences of children and young people: a qualitative study |Developmental|
+| **20** |Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis |Disruptive|
+| **21** |Silver linings of ADHD: a thematic analysis of adults’ positive experiences with living with ADHD |General|
+| **21** |What are the treatment remission, response and extent of improvement rates after up to four trials of antidepressant therapies in real-world depressed patients? |Disruptive|
 
 
 **Table 12 Results on papers published in *Journal of Clinical Medicine*(https://www.mdpi.com/journal/jcm)**  
@@ -169,11 +172,11 @@ We collected 170 recently published papers, most of which were published in 2023
 | 15 |Using Artificial Intelligence to Predict Mechanical Ventilation Weaning Success in Patients with Respiratory Failure, Including Those with Acute Respiratory Distress Syndrome |General|
 | 16 |Using Augmented Reality Technology to Optimize Transfacet Lumbar Interbody Fusion: A Case Report |General|
 | 17 |Uncommon Blepharitis |General|
-| 18 |Albuminuria, Forgotten No More: Underlining the Emerging Role in CardioRenal Crosstalk |General|
-| 19 |Are Surgeons Going to Be Left Holding the Bag? Incisional Hernia Repair and Intra-Peritoneal Non-Absorbable Mesh Implant Complications |General|
-| 20 |Role of Female Sex Hormones in ADPKD Progression and a Personalized Approach to Contraception and Hormonal Therapy |General|
-| 21 |Recent Advances and Future Directions in Syncope Management: A Comprehensive Narrative Review |General|
-| 22 |Long-COVID Prevalence and Its Association with Health Outcomes in the Post-Vaccine and Antiviral-Availability Era |General|
+| **18** |Albuminuria, Forgotten No More: Underlining the Emerging Role in CardioRenal Crosstalk |General|
+| **19** |Are Surgeons Going to Be Left Holding the Bag? Incisional Hernia Repair and Intra-Peritoneal Non-Absorbable Mesh Implant Complications |General|
+| **20** |Role of Female Sex Hormones in ADPKD Progression and a Personalized Approach to Contraception and Hormonal Therapy |General|
+| **21** |Recent Advances and Future Directions in Syncope Management: A Comprehensive Narrative Review |General|
+| **22** |Long-COVID Prevalence and Its Association with Health Outcomes in the Post-Vaccine and Antiviral-Availability Era |General|
 
 
 **Table 13 Results on papers published in *American Journal of Epidemiology*(https://academic.oup.com/aje)**  
@@ -196,11 +199,11 @@ We collected 170 recently published papers, most of which were published in 2023
 | 15 |Life Expectancy among Native Americans during the COVID-19 Pandemic: Estimates, Uncertainty and Obstacles |General|
 | 16 |Estimating protection afforded by prior infection in preventing reinfection: Applying the test-negative study design |Disruptive|
 | 17 |The application of target trials with longitudinal targeted maximum likelihood estimation to assess the effect of alcohol consumption in adolescence on depressive symptoms in adulthood |General|
-| 18 |Associations of Accelerometer-Measured and Self-Reported Sedentary Time With Leukocyte Telomere Length in Older Women |Developmental|
-| 19 |Young Age at First Sexual Intercourse and Sexually Transmitted Infections in Adolescents and Young Adults |Disruptive|
-| 20 |The Relationship Between Occupational Standing and Sitting and Incident Heart Disease Over a 12-Year Period in Ontario, Canada |Developmental|
-| 21 |Death and Chronic Disease Risk Associated With Poor Life Satisfaction: A Population-Based Cohort Study |General|
-| 22 |What is Machine Learning? A Primer for the Epidemiologist |Disruptive|
+| **18** |Associations of Accelerometer-Measured and Self-Reported Sedentary Time With Leukocyte Telomere Length in Older Women |Developmental|
+| **19** |Young Age at First Sexual Intercourse and Sexually Transmitted Infections in Adolescents and Young Adults |Disruptive|
+| **20** |The Relationship Between Occupational Standing and Sitting and Incident Heart Disease Over a 12-Year Period in Ontario, Canada |Developmental|
+| **21** |Death and Chronic Disease Risk Associated With Poor Life Satisfaction: A Population-Based Cohort Study |General|
+| **22** |What is Machine Learning? A Primer for the Epidemiologist |Disruptive|
 
 **Table 14 Results on papers published in *Medical Science Monitor(https://medscimonit.com/)***  
 | Id| Title  |Type|
@@ -218,12 +221,12 @@ We collected 170 recently published papers, most of which were published in 2023
 | 11 |Review of the Evaluation of Pulmonary Hypoplasia as an Important Determinant of Clinical Outcomes in Infants with Congenital Diaphragmatic Hernia |General|
 | 12 |Predictors of Mortality in Veterans with Amyotrophic Lateral Sclerosis: Respiratory Status and Speech Disorder at Presentation |General|
 | 13 |Molecular Determinants of Drug Resistance and Mutation Patterns in Influenza Viruses Circulating in Poland Across Multiple Epidemic Seasons: Implications for Vaccination Strategies |General|
-| 14 |Electrophysiological Testing for an Auditory Processing Disorder and Reading Performance in 54 School Students Aged Between 8 and 12 years |General |
-| 15 |Vaccination Guidelines for Pregnant Women: Addressing COVID-19 and the Omicron Variant |General|
-| 16 |Prevalence and Variability of Allergen-Specific Immunoglobulin E in Patients with Elevated Tryptase Levels |General|
-| 17 |Association Between Sleep Duration and Sleep Disorder Data from the National Health and Nutrition Examination Survey and Stroke Among Adults in the United States |General|
-| 18 |A Review of the Potential Roles of Antioxidant and Anti-Inflammatory Pharmacological Approaches for the Management of Mild-to-Moderate Symptomatic COVID-19 |Disruptive|
-| 19 |Effect of Physiotherapy to Correct Rounded Shoulder Posture in 30 Patients During the COVID-19 Pandemic in South Korea Using a Telerehabilitation Exercise Program to Improve Posture, Physical Function, and Reduced Pain, with Evaluation of Patient Satisfaction |General|
-| 20 |Efficacy of Focused Extracorporeal Shock Wave Therapy in Chronic Low Back Pain: A Prospective Randomized 3-Month Follow-Up Study |General|
-| 21 |Virtual Screening and Molecular Docking to Study the Mechanism of Chinese Medicines in the Treatment of Coronavirus Infection |General|
-| 22 |Questionnaire-Based Study on the Prevalence, Awareness, and Preventive Measures of Occupational Hazards Among Dental Professionals |General|
+| **14** |Electrophysiological Testing for an Auditory Processing Disorder and Reading Performance in 54 School Students Aged Between 8 and 12 years |General |
+| **15** |Vaccination Guidelines for Pregnant Women: Addressing COVID-19 and the Omicron Variant |General|
+| **16** |Prevalence and Variability of Allergen-Specific Immunoglobulin E in Patients with Elevated Tryptase Levels |General|
+| **17** |Association Between Sleep Duration and Sleep Disorder Data from the National Health and Nutrition Examination Survey and Stroke Among Adults in the United States |General|
+| **18** |A Review of the Potential Roles of Antioxidant and Anti-Inflammatory Pharmacological Approaches for the Management of Mild-to-Moderate Symptomatic COVID-19 |Disruptive|
+| **19** |Effect of Physiotherapy to Correct Rounded Shoulder Posture in 30 Patients During the COVID-19 Pandemic in South Korea Using a Telerehabilitation Exercise Program to Improve Posture, Physical Function, and Reduced Pain, with Evaluation of Patient Satisfaction |General|
+| **20** |Efficacy of Focused Extracorporeal Shock Wave Therapy in Chronic Low Back Pain: A Prospective Randomized 3-Month Follow-Up Study |General|
+| **21** |Virtual Screening and Molecular Docking to Study the Mechanism of Chinese Medicines in the Treatment of Coronavirus Infection |General|
+| **22** |Questionnaire-Based Study on the Prevalence, Awareness, and Preventive Measures of Occupational Hazards Among Dental Professionals |General|
