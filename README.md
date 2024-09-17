@@ -122,77 +122,86 @@ We collected 170 recently published papers, most of which were published in 2023
 | 38 |PIM1 targeted degradation prevents the emergence of chemoresistance in prostate cancer |Developmental|
 
 
-**Table 11 Results on papers published in BMJ Open**  
-(1) Association between leisure sedentary behaviour and uterine fibroids in non-menopausal women: a population-based study  
-(2) Associations of smoking and alcohol consumption with the development of open angle glaucoma: a retrospective cohort study  
-(3) Association between kimchi consumption and obesity based on BMI and abdominal obesity in Korean adults: a cross-sectional analysis of the Health Examinees study  
-(4) Assessment of quality of data submitted for NICE technology appraisals over two decades  
-(5) Collaborative care model versus usual care for the management of musculoskeletal and co-existing mental health conditions: a randomised feasibility mixed-methods study  
-(6) Development and evaluation of a manualised mental health awareness and stigma reduction intervention for Black faith communities: study protocol for the ON TRAC feasibility study  
-(7) Evaluating a stepped care model of psychological support for adults affected by adversity: study protocol for a randomised controlled trial in Jordan  
-(8) Experience-based Investigation and Co-design of Psychosis Centred Integrated Care Services for Ethnically Diverse People with Multimorbidity (CoPICS): study protocol  
-(9) Effect of acupuncture on ischaemic stroke in patients with rheumatoid arthritis: a nationwide propensity score-matched study  
-(10) Energy drink consumption and sleep parameters in college and university students: a national cross-sectional study  
-(11) Is male gynaecomastia associated with an increased risk of death? A nationwide register-based cohort study  
-(12) Is the awarding gap at UK medical schools influenced by ethnicity and medical school attended? A retrospective cohort study  
-(13) Towards integrated mental health services in low-income and middle-income countries: organisation of primary healthcare providers – a scoping review protocol  
-(14) Use of drugs for hyperlipidaemia and diabetes and risk of primary and secondary brain tumours: nested case–control studies using the UK Clinical Practice Research Datalink (CPRD)  
-(15) Career intentions of medical students in the UK: a national, cross-sectional study (AIMS study)  
-(16) Does the advertisement in Swiss pharmacy windows rest on evidence-based medicine? An observational study  
-(17) Effect of multi-level interventions on mental health outcomes among adolescents in sub-Saharan Africa: a systematic review  
-(18) Global, regional and national burden of inflammatory bowel disease in 204 countries and territories from 1990 to 2019: a systematic analysis based on the Global Burden of Disease Study 2019  
-(19) Impact of Long Covid on the school experiences of children and young people: a qualitative study  
-(20) Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis  
-(21) Silver linings of ADHD: a thematic analysis of adults’ positive experiences with living with ADHD  
-(22) What are the treatment remission, response and extent of improvement rates after up to four trials of antidepressant therapies in real-world depressed patients? A reanalysis of the STAR*D study’s patient-level data with fidelity to the original research protocol  
+**Table 11 Results on papers published in *BMJ Open*(https://bmjopen.bmj.com/)**  
+| Id| Title  |Type|
+| ------------- | ------------- | ------------- |
+| 1  |Association between leisure sedentary behaviour and uterine fibroids in non-menopausal women: a population-based study |General |
+| 2  |Associations of smoking and alcohol consumption with the development of open angle glaucoma: a retrospective cohort study |General |
+| 3  |Association between kimchi consumption and obesity based on BMI and abdominal obesity in Korean adults: a cross-sectional analysis of the Health Examinees study |Developmental |
+| 4  |Assessment of quality of data submitted for NICE technology appraisals over two decades |General |
+| 5  |Collaborative care model versus usual care for the management of musculoskeletal and co-existing mental health conditions: a randomised feasibility mixed-methods study |General |
+| 6  |Development and evaluation of a manualised mental health awareness and stigma reduction intervention for Black faith communities: study protocol for the ON TRAC feasibility study |General |
+| 7  |Evaluating a stepped care model of psychological support for adults affected by adversity: study protocol for a randomised controlled trial in Jordan |General|
+| 8  |Experience-based Investigation and Co-design of Psychosis Centred Integrated Care Services for Ethnically Diverse People with Multimorbidity (CoPICS): study protocol |General |
+| 9  |Effect of acupuncture on ischaemic stroke in patients with rheumatoid arthritis: a nationwide propensity score-matched study |General |
+| 10 |Energy drink consumption and sleep parameters in college and university students: a national cross-sectional study|Developmental|
+| 11 |Is male gynaecomastia associated with an increased risk of death? A nationwide register-based cohort study |Developmental|
+| 12 |Is the awarding gap at UK medical schools influenced by ethnicity and medical school attended? A retrospective cohort study|Developmental|
+| 13 |Towards integrated mental health services in low-income and middle-income countries: organisation of primary healthcare providers – a scoping review protocol |General|
+| 14 |Use of drugs for hyperlipidaemia and diabetes and risk of primary and secondary brain tumours: nested case–control studies using the UK Clinical Practice Research Datalink (CPRD) |General |
+| 15 |Career intentions of medical students in the UK: a national, cross-sectional study (AIMS study) |Disruptive|
+| 16 |Does the advertisement in Swiss pharmacy windows rest on evidence-based medicine? An observational study |General|
+| 17 |Effect of multi-level interventions on mental health outcomes among adolescents in sub-Saharan Africa: a systematic review |General|
+| 18 |Global, regional and national burden of inflammatory bowel disease in 204 countries and territories from 1990 to 2019: a systematic analysis based on the Global Burden of Disease Study 2019 |Disruptive|
+| 19 |Impact of Long Covid on the school experiences of children and young people: a qualitative study |Developmental|
+| 20 |Risk of myocarditis and pericarditis in mRNA COVID-19-vaccinated and unvaccinated populations: a systematic review and meta-analysis |Disruptive|
+| 21 |Silver linings of ADHD: a thematic analysis of adults’ positive experiences with living with ADHD |General|
+| 22 |What are the treatment remission, response and extent of improvement rates after up to four trials of antidepressant therapies in real-world depressed patients? |Disruptive|
 
-**Table 12 Results on papers published in Journal of Clinical Medicine**  
-(1) A Non-Coronary, Peripheral Arterial Atherosclerotic Disease (Carotid, Renal, Lower Limb) in Elderly Patients—A Review PART II—Pharmacological Approach for Management of Elderly Patients with Peripheral Atherosclerotic Lesions outside Coronary Territory  
-(2) Bone Remodeling of Maxilla after Retraction of Incisors during Orthodontic Treatment with Extraction of Premolars Based on CBCT Study: A Systematic Review  
-(3) Congenital Optic Disc Anomalies: Insights from Multimodal Imaging  
-(4) Comparison of Quality of Recovery between Modified Thoracoabdominal Nerves Block through Perichondrial Approach versus Oblique Subcostal Transversus Abdominis Plane Block in Patients Undergoing Total Laparoscopic Hysterectomy: A Pilot Randomized Controlled Trial  
-(5) Delayed Diagnosis of Spinal Dural Arteriovenous Fistula: A Case Report and Scoping Review  
-(6) Efficacy and Safety of Low-Dose Atropine on Myopia Prevention in Premyopic Children: Systematic Review and Meta-Analysis  
-(7) Glioblastoma and Internal Carotid Artery Calcium Score: A Possible Novel Prognostic Partnership?  
-(8) How Reliable Is Breast Volume Assessment When the Patient Is Lying Flat?—Volumetric Assessment of Breast Volume Using a Vectra H2 Handheld Device in Different Positions  
-(9) How to Manage Advanced Differentiated Thyroid Cancer: Step-by-Step Analysis from Two Italian Tertiary Referral Centers  
-(10) Integra® Dermal Regeneration Template in Complex Scalp Reconstruction  
-(11) Oral Manifestations in Pregnant Women: A Systematic Review  
-(12) Prolongated Activated Partial Thromboplastin Time (aPTT) in Pediatric Patients before Surgery—Crying Wolf: Lupus (Anticoagulant) Does Not Always Threaten Children  
-(13) The Diagnostic Accuracy of Transcranial Color-Coded Doppler Ultrasound Technique in Stratifying Intracranial Cerebral Artery Stenoses in Cerebrovascular Disease Patients: A Systematic Review and Meta-Analysis  
-(14) The Association of High-Molecular-Weight Hyaluronic Acid (HMWHA), Alpha Lipoic Acid (ALA), Magnesium, Vitamin B6, and Vitamin D Improves Subchorionic Hematoma Resorption in Women with Threatened Miscarriage: A Pilot Clinical Study  
-(15) Using Artificial Intelligence to Predict Mechanical Ventilation Weaning Success in Patients with Respiratory Failure, Including Those with Acute Respiratory Distress Syndrome  
-(16) Using Augmented Reality Technology to Optimize Transfacet Lumbar Interbody Fusion: A Case Report  
-(17) Uncommon Blepharitis  
-(18) Albuminuria, Forgotten No More: Underlining the Emerging Role in CardioRenal Crosstalk  
-(19) Are Surgeons Going to Be Left Holding the Bag? Incisional Hernia Repair and Intra-Peritoneal Non-Absorbable Mesh Implant Complications  
-(20) Role of Female Sex Hormones in ADPKD Progression and a Personalized Approach to Contraception and Hormonal Therapy  
-(21) Recent Advances and Future Directions in Syncope Management: A Comprehensive Narrative Review  
-(22) Long-COVID Prevalence and Its Association with Health Outcomes in the Post-Vaccine and Antiviral-Availability Era  
 
-**Table 13 Results on papers published in American Journal of Epidemiology**  
-(1) Missing data and missed infections: Investigating racial and ethnic disparities in SARS-CoV-2 testing and infection rates in Holyoke, Massachusetts  
-(2) Machine Learning Detects Heterogeneous Effects of Medicaid Coverage on Depression  
-(3) Handling missing data when estimating causal effects with Targeted Maximum Likelihood Estimation  
-(4) The InterSECT framework: A proposed model for explaining population-level trends in substance use and emotional concerns  
-(5) Understanding Racial/Ethinic Disparities in COVID Mortality Using a Novel Metric: COVID Excess Mortality Percentage  
-(6) Standardizing to Specific Target Populations in Distributed Networks and Multi-Site Pharmacoepidemiologic Studies  
-(7) Measuring Variation in Infant Mortality and Deaths of Despair by U.S. Congressional Districts in Pennsylvania: A Methodological Case Study  
-(8) Estimating effects of longitudinal and cumulative exposure to PFAS mixtures on early adolescent body composition  
-(9) An Introduction to Bayesian Spatial Smoothing Methods for Disease Mapping: Modeling County Firearm Suicide Mortality Rates  
-(10) Omics feature selection with the extended SIS R package: identification of a body mass index epigenetic multi-marker in the Strong Heart Study  
-(11) Month-to-month all-cause mortality forecasting: A method allowing for changes in seasonal patterns  
-(12) Exercise to socialize? Bidirectional relationships between physical activity and loneliness in middle-aged and older American adults  
-(13) Harnessing Causal Forests for Epidemiologic Research: Key Consideration  
-(14) The World Was Their Laboratory: How Two Pioneer Scientist-Administrators,James Watt and Zdenek Fejfar, Advanced Methods and International Collaboration in Cardiovascular Disease Epidemiology During the Cold War  
-(15) Life Expectancy among Native Americans during the COVID-19 Pandemic: Estimates, Uncertainty and Obstacles  
-(16) Estimating protection afforded by prior infection in preventing reinfection: Applying the test-negative study design  
-(17) The application of target trials with longitudinal targeted maximum likelihood estimation to assess the effect of alcohol consumption in adolescence on depressive symptoms in adulthood  
-(18) Associations of Accelerometer-Measured and Self-Reported Sedentary Time With Leukocyte Telomere Length in Older Women  
-(19) Young Age at First Sexual Intercourse and Sexually Transmitted Infections in Adolescents and Young Adults  
-(20) The Relationship Between Occupational Standing and Sitting and Incident Heart Disease Over a 12-Year Period in Ontario, Canada  
-(21) Death and Chronic Disease Risk Associated With Poor Life Satisfaction: A Population-Based Cohort Study  
-(22) What is Machine Learning? A Primer for the Epidemiologist 
+**Table 12 Results on papers published in *Journal of Clinical Medicine*(https://www.mdpi.com/journal/jcm)**  
+| Id| Title  |Type|
+| ------------- | ------------- | ------------- |
+| 1  |A Non-Coronary, Peripheral Arterial Atherosclerotic Disease (Carotid, Renal, Lower Limb) in Elderly Patients—A Review PART II—Pharmacological Approach for Management of Elderly Patients with Peripheral Atherosclerotic Lesions outside Coronary Territory |General |
+| 2  |Bone Remodeling of Maxilla after Retraction of Incisors during Orthodontic Treatment with Extraction of Premolars Based on CBCT Study: A Systematic Review |General |
+| 3  |Congenital Optic Disc Anomalies: Insights from Multimodal Imaging |Developmental |
+| 4  |Comparison of Quality of Recovery between Modified Thoracoabdominal Nerves Block through Perichondrial Approach versus Oblique Subcostal Transversus Abdominis Plane Block in Patients Undergoing Total Laparoscopic Hysterectomy: A Pilot Randomized Controlled Trial |Developmental |
+| 5  |Delayed Diagnosis of Spinal Dural Arteriovenous Fistula: A Case Report and Scoping Review |Developmental |
+| 6  |Efficacy and Safety of Low-Dose Atropine on Myopia Prevention in Premyopic Children: Systematic Review and Meta-Analysis |Developmental |
+| 7  |Glioblastoma and Internal Carotid Artery Calcium Score: A Possible Novel Prognostic Partnership? |General|
+| 8  |How Reliable Is Breast Volume Assessment When the Patient Is Lying Flat?—Volumetric Assessment of Breast Volume Using a Vectra H2 Handheld Device in Different Positions |Developmental |
+| 9  |How to Manage Advanced Differentiated Thyroid Cancer: Step-by-Step Analysis from Two Italian Tertiary Referral Centers |General |
+| 10 |Integra® Dermal Regeneration Template in Complex Scalp Reconstruction |General|
+| 11 |Oral Manifestations in Pregnant Women: A Systematic Review |General|
+| 12 |Prolongated Activated Partial Thromboplastin Time (aPTT) in Pediatric Patients before Surgery—Crying Wolf: Lupus (Anticoagulant) Does Not Always Threaten Children |General|
+| 13 |The Diagnostic Accuracy of Transcranial Color-Coded Doppler Ultrasound Technique in Stratifying Intracranial Cerebral Artery Stenoses in Cerebrovascular Disease Patients: A Systematic Review and Meta-Analysis  |General|
+| 14 |The Association of High-Molecular-Weight Hyaluronic Acid (HMWHA), Alpha Lipoic Acid (ALA), Magnesium, Vitamin B6, and Vitamin D Improves Subchorionic Hematoma Resorption in Women with Threatened Miscarriage: A Pilot Clinical Study|Developmental |
+| 15 |Using Artificial Intelligence to Predict Mechanical Ventilation Weaning Success in Patients with Respiratory Failure, Including Those with Acute Respiratory Distress Syndrome |General|
+| 16 |Using Augmented Reality Technology to Optimize Transfacet Lumbar Interbody Fusion: A Case Report |General|
+| 17 |Uncommon Blepharitis |General|
+| 18 |Albuminuria, Forgotten No More: Underlining the Emerging Role in CardioRenal Crosstalk |General|
+| 19 |Are Surgeons Going to Be Left Holding the Bag? Incisional Hernia Repair and Intra-Peritoneal Non-Absorbable Mesh Implant Complications |General|
+| 20 |Role of Female Sex Hormones in ADPKD Progression and a Personalized Approach to Contraception and Hormonal Therapy |General|
+| 21 |Recent Advances and Future Directions in Syncope Management: A Comprehensive Narrative Review |General|
+| 22 |Long-COVID Prevalence and Its Association with Health Outcomes in the Post-Vaccine and Antiviral-Availability Era |General|
+
+
+**Table 13 Results on papers published in *American Journal of Epidemiology*(https://academic.oup.com/aje)**  
+
+| Id| Title  |Type|
+| ------------- | ------------- | ------------- |
+| 1  |Missing data and missed infections: Investigating racial and ethnic disparities in SARS-CoV-2 testing and infection rates in Holyoke, Massachusetts |General |
+| 2  |Machine Learning Detects Heterogeneous Effects of Medicaid Coverage on Depression |Disruptive |
+| 3  |Handling missing data when estimating causal effects with Targeted Maximum Likelihood Estimation |Developmental |
+| 4  |The InterSECT framework: A proposed model for explaining population-level trends in substance use and emotional concerns |General |
+| 5  |Understanding Racial/Ethinic Disparities in COVID Mortality Using a Novel Metric: COVID Excess Mortality Percentage |Disruptive |
+| 6  |Standardizing to Specific Target Populations in Distributed Networks and Multi-Site Pharmacoepidemiologic Studies |General |
+| 7  |Measuring Variation in Infant Mortality and Deaths of Despair by U.S. Congressional Districts in Pennsylvania: A Methodological Case Study |General|
+| 8  |Estimating effects of longitudinal and cumulative exposure to PFAS mixtures on early adolescent body composition |Developmental |
+| 9  |An Introduction to Bayesian Spatial Smoothing Methods for Disease Mapping: Modeling County Firearm Suicide Mortality Rates |General |
+| 10 |Omics feature selection with the extended SIS R package: identification of a body mass index epigenetic multi-marker in the Strong Heart Study |General|
+| 11 |Month-to-month all-cause mortality forecasting: A method allowing for changes in seasonal patterns |General|
+| 12 |Exercise to socialize? Bidirectional relationships between physical activity and loneliness in middle-aged and older American adults |General|
+| 13 |Harnessing Causal Forests for Epidemiologic Research: Key Consideration |Developmental|
+| 14 |The World Was Their Laboratory: How Two Pioneer Scientist-Administrators,James Watt and Zdenek Fejfar, Advanced Methods and International Collaboration in Cardiovascular Disease Epidemiology During the Cold War |General |
+| 15 |Life Expectancy among Native Americans during the COVID-19 Pandemic: Estimates, Uncertainty and Obstacles |General|
+| 16 |Estimating protection afforded by prior infection in preventing reinfection: Applying the test-negative study design |Disruptive|
+| 17 |The application of target trials with longitudinal targeted maximum likelihood estimation to assess the effect of alcohol consumption in adolescence on depressive symptoms in adulthood |General|
+| 18 |Associations of Accelerometer-Measured and Self-Reported Sedentary Time With Leukocyte Telomere Length in Older Women |Developmental|
+| 19 |Young Age at First Sexual Intercourse and Sexually Transmitted Infections in Adolescents and Young Adults |Disruptive|
+| 20 |The Relationship Between Occupational Standing and Sitting and Incident Heart Disease Over a 12-Year Period in Ontario, Canada |Developmental|
+| 21 |Death and Chronic Disease Risk Associated With Poor Life Satisfaction: A Population-Based Cohort Study |General|
+| 22 |What is Machine Learning? A Primer for the Epidemiologist |Disruptive|
 
 **Table 14 Results on papers published in Medical Science Monitor**  
 (1) Bibliometric Analysis of Brain Stimulation Technologies in Sleep Disorders  
