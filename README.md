@@ -177,7 +177,6 @@ We collected 170 recently published papers, most of which were published in 2023
 
 
 **Table 13 Results on papers published in *American Journal of Epidemiology*(https://academic.oup.com/aje)**  
-
 | Id| Title  |Type|
 | ------------- | ------------- | ------------- |
 | 1  |Missing data and missed infections: Investigating racial and ethnic disparities in SARS-CoV-2 testing and infection rates in Holyoke, Massachusetts |General |
@@ -203,26 +202,28 @@ We collected 170 recently published papers, most of which were published in 2023
 | 21 |Death and Chronic Disease Risk Associated With Poor Life Satisfaction: A Population-Based Cohort Study |General|
 | 22 |What is Machine Learning? A Primer for the Epidemiologist |Disruptive|
 
-**Table 14 Results on papers published in Medical Science Monitor**  
-(1) Bibliometric Analysis of Brain Stimulation Technologies in Sleep Disorders  
-(2) Clinical Outcomes of Arthroscopic Surgery in Patients with Gluteal Muscle Contracture: Single-Institution Results from a High-Volume Cohort  
-(3) Comparison of Modified Shock Index and Shock Index for Predicting Massive Transfusion in Women with Primary Postpartum Hemorrhage: A Retrospective Study  
-(4) Diagnostic Accuracy of Ileocolic Artery and Vein Diameter for Acute Appendicitis  
-(5) Enhancing Patient Adherence to Newly-Prescribed Medicine for Chronic Diseases: A Comprehensive Review and Cost-Effective Approach to Implementing the New Medicine Service in Community Pharmacies in Poland  
-(6) Efficacy of Bakri Intrauterine Balloon in Managing Postpartum Hemorrhage: A Comparative Analysis of Vaginal and Cesarean Deliveries with Placenta Accreta Spectrum Disorders  
-(7) Early Mobilization in Pediatric Critical Care: Exploring the Gap Between Theory and Practice in Saudi Arabia  
-(8) Ecoepidemiology of Ancylostoma spp. in Urban-Marginal and Rural Sectors of the Ecuadorian Coast and Prevalence of Cutaneous Larvae Migrans  
-(9) Impact of Auxiliary Features on Retention of Short Dental Crowns: An In-Vitro Analysis of Box and Groove Preparations  
-(10) Patterns and Outcomes of Traumatic Suicides: A Retrospective Study of 132 Patients Admitted to a Turkish Medical Center  
-(11) Review of the Evaluation of Pulmonary Hypoplasia as an Important Determinant of Clinical Outcomes in Infants with Congenital Diaphragmatic Hernia  
-(12) Predictors of Mortality in Veterans with Amyotrophic Lateral Sclerosis: Respiratory Status and Speech Disorder at Presentation  
-(13) Molecular Determinants of Drug Resistance and Mutation Patterns in Influenza Viruses Circulating in Poland Across Multiple Epidemic Seasons: Implications for Vaccination Strategies  
-(14) Electrophysiological Testing for an Auditory Processing Disorder and Reading Performance in 54 School Students Aged Between 8 and 12 years  
-(15) Vaccination Guidelines for Pregnant Women: Addressing COVID-19 and the Omicron Variant  
-(16) Prevalence and Variability of Allergen-Specific Immunoglobulin E in Patients with Elevated Tryptase Levels  
-(17) Association Between Sleep Duration and Sleep Disorder Data from the National Health and Nutrition Examination Survey and Stroke Among Adults in the United States  
-(18) A Review of the Potential Roles of Antioxidant and Anti-Inflammatory Pharmacological Approaches for the Management of Mild-to-Moderate Symptomatic COVID-19  
-(19) Effect of Physiotherapy to Correct Rounded Shoulder Posture in 30 Patients During the COVID-19 Pandemic in South Korea Using a Telerehabilitation Exercise Program to Improve Posture, Physical Function, and Reduced Pain, with Evaluation of Patient Satisfaction  
-(20) Efficacy of Focused Extracorporeal Shock Wave Therapy in Chronic Low Back Pain: A Prospective Randomized 3-Month Follow-Up Study  
-(21) Virtual Screening and Molecular Docking to Study the Mechanism of Chinese Medicines in the Treatment of Coronavirus Infection  
-(22) Questionnaire-Based Study on the Prevalence, Awareness, and Preventive Measures of Occupational Hazards Among Dental Professionals
+**Table 14 Results on papers published in *Medical Science Monitor(https://medscimonit.com/)***  
+| Id| Title  |Type|
+| ------------- | ------------- | ------------- |
+| 1  |Bibliometric Analysis of Brain Stimulation Technologies in Sleep Disorders |General |
+| 2  |Clinical Outcomes of Arthroscopic Surgery in Patients with Gluteal Muscle Contracture: Single-Institution Results from a High-Volume Cohort |Developmental |
+| 3  |Comparison of Modified Shock Index and Shock Index for Predicting Massive Transfusion in Women with Primary Postpartum Hemorrhage: A Retrospective Study |Developmental |
+| 4  |Diagnostic Accuracy of Ileocolic Artery and Vein Diameter for Acute Appendicitis |General |
+| 5  |Enhancing Patient Adherence to Newly-Prescribed Medicine for Chronic Diseases: A Comprehensive Review and Cost-Effective Approach to Implementing the New Medicine Service in Community Pharmacies in Poland |General |
+| 6  |Efficacy of Bakri Intrauterine Balloon in Managing Postpartum Hemorrhage: A Comparative Analysis of Vaginal and Cesarean Deliveries with Placenta Accreta Spectrum Disorders |Disruptive |
+| 7  |Early Mobilization in Pediatric Critical Care: Exploring the Gap Between Theory and Practice in Saudi Arabia |Developmental|
+| 8  |Ecoepidemiology of Ancylostoma spp. in Urban-Marginal and Rural Sectors of the Ecuadorian Coast and Prevalence of Cutaneous Larvae Migrans |General |
+| 9  |Impact of Auxiliary Features on Retention of Short Dental Crowns: An In-Vitro Analysis of Box and Groove Preparations |General |
+| 10 |Patterns and Outcomes of Traumatic Suicides: A Retrospective Study of 132 Patients Admitted to a Turkish Medical Center |General|
+| 11 |Review of the Evaluation of Pulmonary Hypoplasia as an Important Determinant of Clinical Outcomes in Infants with Congenital Diaphragmatic Hernia |General|
+| 12 |Predictors of Mortality in Veterans with Amyotrophic Lateral Sclerosis: Respiratory Status and Speech Disorder at Presentation |General|
+| 13 |Molecular Determinants of Drug Resistance and Mutation Patterns in Influenza Viruses Circulating in Poland Across Multiple Epidemic Seasons: Implications for Vaccination Strategies |General|
+| 14 |Electrophysiological Testing for an Auditory Processing Disorder and Reading Performance in 54 School Students Aged Between 8 and 12 years |General |
+| 15 |Vaccination Guidelines for Pregnant Women: Addressing COVID-19 and the Omicron Variant |General|
+| 16 |Prevalence and Variability of Allergen-Specific Immunoglobulin E in Patients with Elevated Tryptase Levels |General|
+| 17 |Association Between Sleep Duration and Sleep Disorder Data from the National Health and Nutrition Examination Survey and Stroke Among Adults in the United States |General|
+| 18 |A Review of the Potential Roles of Antioxidant and Anti-Inflammatory Pharmacological Approaches for the Management of Mild-to-Moderate Symptomatic COVID-19 |Disruptive|
+| 19 |Effect of Physiotherapy to Correct Rounded Shoulder Posture in 30 Patients During the COVID-19 Pandemic in South Korea Using a Telerehabilitation Exercise Program to Improve Posture, Physical Function, and Reduced Pain, with Evaluation of Patient Satisfaction |General|
+| 20 |Efficacy of Focused Extracorporeal Shock Wave Therapy in Chronic Low Back Pain: A Prospective Randomized 3-Month Follow-Up Study |General|
+| 21 |Virtual Screening and Molecular Docking to Study the Mechanism of Chinese Medicines in the Treatment of Coronavirus Infection |General|
+| 22 |Questionnaire-Based Study on the Prevalence, Awareness, and Preventive Measures of Occupational Hazards Among Dental Professionals |General|
