@@ -1,10 +1,10 @@
-# Utilizing Large Model for Content-Based Identification of Disruptive and Developmental Research
-(1) We proposed a simple but effective data construction method, which can automatically build a three-class dataset (disruptive, developmental, and consolidating) based on the disruption index (DI).  
-(2) We employed a range of LLMs with adapter to train a text classifier which can effectively distinguish potentially disruptive and developmental research from general reserch.  
-(3) Further experimental results on two evaluation datasets show that our model can differentiate between Nobel Prize papers and randomly matched papers, as well as between newly published papers in journals of varying impact factors (IF).   
-(4) Our findings also show that evaluating papers based solely on IF is insufficient, and a paper published in a general journal boasting high view counts tend to be disruptive or developmental research. 
+# Utilizing Large Model for Content-Based Identification of Disruptive and Developmental Research  
+This study not only provides an effective method for timely identifying disruptive research, but also provides guidance for promoting fair scientific evaluation.  
 
-This study not only provides an effective method for timely identifying disruptive research, but also provides guidance for promoting fair scientific evaluation.
+**(1)** We proposed a simple but effective data construction method, which can automatically build a three-class dataset (disruptive, developmental, and consolidating) based on the disruption index (DI).  
+**(2)** We employed a range of LLMs with adapter to train a text classifier which can effectively distinguish potentially disruptive and developmental research from general reserch.  
+**(3)** Further experimental results on two evaluation datasets show that our model can differentiate between Nobel Prize papers and randomly matched papers, as well as between newly published papers in journals of varying impact factors (IF).   
+**(4)** Our findings also show that evaluating papers based solely on IF is insufficient, and a paper published in a general journal boasting high view counts tend to be disruptive or developmental research. 
 
 ## Nobel evaluation dataset  
 We proposed the Nobel Prize paper evaluation dataset, which includes 80 Nobel Prize papers , 76 other papers authored by Nobel laureates, and 209 random papers. 
@@ -17,13 +17,13 @@ We proposed the Nobel Prize paper evaluation dataset, which includes 80 Nobel Pr
 </div>  
 
 ## The newly published paper evaluation dataset  
-We collected 170 recently published papers, most of which were published in 2023 or 2024, to form the newly published paper evaluation dataset (\mathcal{D}_\mathcal{L}). As shown in Figure 3, we randomly selected newly published papers from the official homepages of distinct biomedicine journals. Specifically, we collected 22 papers from JAMA, BMJ Open, Journal of Clinical Medicine (JCM), American Journal of Epidemiology (AJE), and Medical Science Monitor (MSM), respectively. We also gathered 22 papers from Cell and its sub-journals, along with 38 papers from The Lancet and its sub-journals. JAMA, Cell, and The Lancet are top journals with higher IF, while the others are general journals with lower IF.
+We collected 170 recently published papers, most of which were published in 2023 or 2024, to form the newly published paper evaluation dataset. As shown in Figure 3, we randomly selected newly published papers from the official homepages of distinct biomedicine journals. Specifically, we collected 22 papers from JAMA, BMJ Open, Journal of Clinical Medicine (JCM), American Journal of Epidemiology (AJE), and Medical Science Monitor (MSM), respectively. We also gathered 22 papers from Cell and its sub-journals, along with 38 papers from The Lancet and its sub-journals. JAMA, Cell, and The Lancet are top journals with higher IF, while the others are general journals with lower IF.
 
 <p align="center">
   <img src="https://github.com/WannaLearning/Identifying-disruptive-and-developmental-research-based-purely-on-research-content/blob/main/Figures-git/newly%20published%20papers%20evaluation%20dataset.png" width="45%" alt="Construction process of the newly published paper evaluation dataset"/>
 </p>
 <div align="center">
-  Figure 2 Construction process of the newly published paper evaluation dataset
+  Figure 3 Construction process of the newly published paper evaluation dataset
 </div>  
 
 **Table 8. Results on papers published in JAMA**  
