@@ -26,10 +26,11 @@ We collected 170 recently published papers, most of which were published in 2023
   Figure 3 Construction process of the newly published paper evaluation dataset
 </div>  
 
-**Table 8. Results on papers published in JAMA**  
+## The titles of the newly published papers
+**Table 8. Results on papers published in *JAMA*(https://jamanetwork.com/)**  
 | Id| Title  |Type|
 | ------------- | ------------- | ------------- |
-| 1  | Anxiety and Depression Symptoms After the Dobbs Abortion Decision |Disruptive |
+| 1  |Anxiety and Depression Symptoms After the Dobbs Abortion Decision |Disruptive |
 | 2  |Changes in Health Care Workers’ Economic Outcomes Following Medicaid Expansion |General |
 | 3  |Cancer Diagnoses After Recent Weight Loss |Disruptive |
 | 4  |Functional Outcomes After Localized Prostate Cancer Treatment |Disruptive |
@@ -52,29 +53,31 @@ We collected 170 recently published papers, most of which were published in 2023
 | 21 |Screening for Lung Cancer |Disruptive|
 | 22 |Strengthening the Reporting of Observational Studies in Epidemiology Using Mendelian RandomizationThe STROBE-MR Statement |Disruptive|
 
-**Table 9 Results on papers published in The Lancet**  
-(1) A 14-gene B-cell immune signature in early-stage triple-negative breast cancer (TNBC): a pooled analysis of seven studies  
-(2) AAV1-hOTOF gene therapy for autosomal recessive deafness 9: a single-arm trial  
-(3) Association between early life exposure to agriculture, biodiversity, and green space and risk of inflammatory bowel disease: a population-based cohort study  
-(4) Cemiplimab in locally advanced or metastatic cutaneous squamous cell carcinoma: prospective real-world data from the DRUG Access Protocol  
-(5) Differential anti-viral response to respiratory syncytial virus A in preterm and term infants  
-(6) Estimates of hospitalisations and deaths in patients with COVID-19 associated with undiagnosed diabetes during the first phase of the pandemic in eight low-income and middle-income countries: a modelling study  
-(7) Efficacy of typhoid conjugate vaccine: final analysis of a 4-year, phase 3, randomised controlled trial in Malawian children  
-(8) Evaluating the efficacy and safety of pozelimab in patients with CD55 deficiency with hyperactivation of complement, angiopathic thrombosis, and protein-losing enteropathy disease: an open-label phase 2 and 3 study  
-(9) Individualised neoantigen therapy mRNA-4157 (V940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (KEYNOTE-942): a randomised, phase 2b study  
-(10) Indomethacin with or without prophylactic pancreatic stent placement to prevent pancreatitis after ERCP: a randomised non-inferiority trial  
-(11) Term planned delivery based on fetal growth assessment with or without the cerebroplacental ratio in low-risk pregnancies (RATIO37): an international, multicentre, open-label, randomised controlled trial  
-(12) The effect of computerised decision support alerts tailored to intensive care on the administration of high-risk drug combinations, and their monitoring: a cluster randomised stepped-wedge trial  
-(13) Undervaccination and severe COVID-19 outcomes: meta-analysis of national cohort studies in England, Northern Ireland, Scotland, and Wales  
-(14) Early childhood appetitive traits and eating disorder symptoms in adolescence: a 10-year longitudinal follow-up study in the Netherlands and the UK  
-(15) Effect of parental touch on relieving acute procedural pain in neonates and parental anxiety (Petal): a multicentre, randomised controlled trial in the UK  
-(16) Immunomodulatory therapy in children with paediatric inflammatory multisystem syndrome temporally associated with SARS-CoV-2 (PIMS-TS, MIS-C; RECOVERY): a randomised, controlled, open-label, platform trial  
-(17) Post-mortem investigation of deaths due to pneumonia in children aged 1–59 months in sub-Saharan Africa and South Asia from 2016 to 2022: an observational study  
-(18) Long-term outcomes after severe childhood malnutrition in adolescents in Malawi (LOSCM): a prospective observational cohort study  
-(19) Duration of fracture prevention after zoledronate treatment in women with osteopenia: observational follow-up of a 6-year randomised controlled trial to 10 years  
-(20) Efficacy and safety of once weekly semaglutide 2·4 mg for weight management in a predominantly east Asian population with overweight or obesity (STEP 7): a double-blind, multicentre, randomised controlled trial  
-(21) Glucagon and GLP-1 receptor dual agonist survodutide for obesity: a randomised, double-blind, placebo-controlled, dose-finding phase 2 trial  
-(22) PCSK9 inhibition with orally administered NNC0385-0434 in hypercholesterolaemia: a randomised, double-blind, placebo-controlled and active-controlled phase 2 trial  
+**Table 9 Results on papers published in *The Lancet*(https://www.thelancet.com/)**  
+| Id| Title  |Type|
+| ------------- | ------------- | ------------- |
+| 1  |A 14-gene B-cell immune signature in early-stage triple-negative breast cancer (TNBC): a pooled analysis of seven studies |Disruptive |
+| 2  |AAV1-hOTOF gene therapy for autosomal recessive deafness 9: a single-arm trial |Disruptive |
+| 3  |Association between early life exposure to agriculture, biodiversity, and green space and risk of inflammatory bowel disease: a population-based cohort study|Developmental |
+| 4  |Cemiplimab in locally advanced or metastatic cutaneous squamous cell carcinoma: prospective real-world data from the DRUG Access Protocol|Developmental |
+| 5  |Differential anti-viral response to respiratory syncytial virus A in preterm and term infants |General |
+| 6  |Estimates of hospitalisations and deaths in patients with COVID-19 associated with undiagnosed diabetes during the first phase of the pandemic in eight low-income and middle-income countries: a modelling study|General |
+| 7  |Efficacy of typhoid conjugate vaccine: final analysis of a 4-year, phase 3, randomised controlled trial in Malawian children |Disruptive|
+| 8  |Evaluating the efficacy and safety of pozelimab in patients with CD55 deficiency with hyperactivation of complement, angiopathic thrombosis, and protein-losing enteropathy disease: an open-label phase 2 and 3 study|Developmental |
+| 9  |Individualised neoantigen therapy mRNA-4157 (V940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (KEYNOTE-942): a randomised, phase 2b study|Developmental |
+| 10 |Indomethacin with or without prophylactic pancreatic stent placement to prevent pancreatitis after ERCP: a randomised non-inferiority trial|Developmental|
+| 11 |Term planned delivery based on fetal growth assessment with or without the cerebroplacental ratio in low-risk pregnancies (RATIO37): an international, multicentre, open-label, randomised controlled trial |General|
+| 12 |The effect of computerised decision support alerts tailored to intensive care on the administration of high-risk drug combinations, and their monitoring: a cluster randomised stepped-wedge trial |Developmental|
+| 13 |Undervaccination and severe COVID-19 outcomes: meta-analysis of national cohort studies in England, Northern Ireland, Scotland, and Wales |Disruptive|
+| 14 |Early childhood appetitive traits and eating disorder symptoms in adolescence: a 10-year longitudinal follow-up study in the Netherlands and the UK |General |
+| 15 |Effect of parental touch on relieving acute procedural pain in neonates and parental anxiety (Petal): a multicentre, randomised controlled trial in the UK |Developmental|
+| 16 |Immunomodulatory therapy in children with paediatric inflammatory multisystem syndrome temporally associated with SARS-CoV-2 (PIMS-TS, MIS-C; RECOVERY): a randomised, controlled, open-label, platform trial |Disruptive|
+| 17 |Post-mortem investigation of deaths due to pneumonia in children aged 1–59 months in sub-Saharan Africa and South Asia from 2016 to 2022: an observational study |Disruptive|
+| 18 |Long-term outcomes after severe childhood malnutrition in adolescents in Malawi (LOSCM): a prospective observational cohort study |Developmental|
+| 19 |Duration of fracture prevention after zoledronate treatment in women with osteopenia: observational follow-up of a 6-year randomised controlled trial to 10 years |Developmental|
+| 20 |Efficacy and safety of once weekly semaglutide 2·4 mg for weight management in a predominantly east Asian population with overweight or obesity (STEP 7): a double-blind, multicentre, randomised controlled trial |Disruptive|
+| 21 |Glucagon and GLP-1 receptor dual agonist survodutide for obesity: a randomised, double-blind, placebo-controlled, dose-finding phase 2 trial |Developmental|
+| 22 |PCSK9 inhibition with orally administered NNC0385-0434 in hypercholesterolaemia: a randomised, double-blind, placebo-controlled and active-controlled phase 2 trial |Disruptive|
 
 **Table 10 Results on papers published in Cell**  
 (1) DNA-guided transcription factor cooperativity shapes face and limb mesenchyme  
