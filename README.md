@@ -79,45 +79,48 @@ We collected 170 recently published papers, most of which were published in 2023
 | 21 |Glucagon and GLP-1 receptor dual agonist survodutide for obesity: a randomised, double-blind, placebo-controlled, dose-finding phase 2 trial |Developmental|
 | 22 |PCSK9 inhibition with orally administered NNC0385-0434 in hypercholesterolaemia: a randomised, double-blind, placebo-controlled and active-controlled phase 2 trial |Disruptive|
 
-**Table 10 Results on papers published in Cell**  
-(1) DNA-guided transcription factor cooperativity shapes face and limb mesenchyme  
-(2) Cell surface RNAs control neutrophil recruitment  
-(3) Time resolution in cryo-EM using a PDMS-based microfluidic chip assembly and its application to the study of HflX-mediated ribosome recycling  
-(4) Dual phosphorylation of DGK5-mediated PA burst regulates ROS in plant immunity  
-(5) Inherited blood cancer predisposition through altered transcription elongation  
-(6) Hypoxia and intra-complex genetic suppressors rescue complex I mutants by a shared mechanism  
-(7) Therapeutic application of human type 2 innate lymphoid cells via induction of granzyme B-mediated tumor cell death  
-(8) Immune evasion, infectivity, and fusogenicity of SARS-CoV-2 BA.2.86 and FLip variants  
-(9) SARS-CoV-2 BA.2.86 enters lung cells and evades neutralizing antibodies with high efficiency  
-(10) Human fetal brain self-organizes into long-term expanding organoids  
-(11) Neutrophil profiling illuminates anti-tumor antigen-presenting potency  
-(12) A cryptic plasmid is among the most numerous genetic elements in the human gut  
-(13) Structure-based design of non-hypertrophic apelin receptor modulator  
-(14) Underdetected dispersal and extensive local transmission drove the 2022 mpox epidemic  
-(15) Maternal inflammation regulates fetal emergency myelopoiesis  
-(16) CRB1-associated retinal degeneration is dependent on bacterial translocation from the gut  
-(17) Learning attentional templates for value-based decision-making  
-(18) A multivalent mRNA monkeypox virus vaccine (BNT166) protects mice and macaques from orthopoxvirus disease  
-(19) Xist ribonucleoproteins promote female sex-biased autoimmunity  
-(20) A retroviral link to vertebrate myelination through retrotransposon-RNA-mediated control of myelin gene expression  
-(21) Inosine induces stemness features in CAR-T cells and enhances potency  
-(22) A comprehensive clinically informed map of dependencies in cancer cells and framework for target prioritization  
-(23) Interferon-stimulated neutrophils as a predictor of immunotherapy response  
-(24) Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enhanced stromal remodeling in high-risk patients  
-(25) PDGFRα+ITGA11+ fibroblasts foster early-stage cancer lymphovascular invasion and lymphatic metastasis via ITGA11-SELE interplay  
-(26) Retinoic acid receptor activation reprograms senescence response and enhances anti-tumor activity of natural killer cells  
-(27) A living biobank of patient-derived ductal carcinoma in situ mouse-intraductal xenografts identifies risk factors for invasive progression  
-(28) Interferon-stimulated neutrophils as a predictor of immunotherapy response  
-(29) A comprehensive clinically informed map of dependencies in cancer cells and framework for target prioritization  
-(30) Antiplasmodial peptaibols act through membrane directed mechanisms  
-(31) PIM1 targeted degradation prevents the emergence of chemoresistance in prostate cancer  
-(32) A sterol analog inhibits hedgehog pathway by blocking cholesterylation of smoothened  
-(33) Allosteric inhibition of tRNA synthetase Gln4 by N-pyrimidinyl-β-thiophenylacrylamides exerts highly selective antifungal activity  
-(34) CYP7B1-mediated 25-hydroxycholesterol degradation maintains quiescence-activation balance and improves therapeutic potential of mesenchymal stem cells  
-(35) Identification of differential biological activity and synergy between the PARP inhibitor rucaparib and its major metabolite  
-(36) Small molecule targeting of transcription-replication conflict for selective chemotherapy  
-(37) The cyclimids: Degron-inspired cereblon binders for targeted protein degradation  
-(38) PIM1 targeted degradation prevents the emergence of chemoresistance in prostate cancer 
+**Table 10 Results on papers published in *Cell*(https://www.cell.com/)**  
+| Id| Title  |Type|
+| ------------- | ------------- | ------------- |
+| 1  |DNA-guided transcription factor cooperativity shapes face and limb mesenchyme|Developmental |
+| 2  |Cell surface RNAs control neutrophil recruitment |Developmental |
+| 3  |Time resolution in cryo-EM using a PDMS-based microfluidic chip assembly and its application to the study of HflX-mediated ribosome recycling|Developmental |
+| 4  |Dual phosphorylation of DGK5-mediated PA burst regulates ROS in plant immunity|Developmental |
+| 5  |Inherited blood cancer predisposition through altered transcription elongation |Disruptive |
+| 6  |Hypoxia and intra-complex genetic suppressors rescue complex I mutants by a shared mechanism |Developmental |
+| 7  |Therapeutic application of human type 2 innate lymphoid cells via induction of granzyme B-mediated tumor cell death |Developmental|
+| 8  |Immune evasion, infectivity, and fusogenicity of SARS-CoV-2 BA.2.86 and FLip variants |Developmental |
+| 9  |SARS-CoV-2 BA.2.86 enters lung cells and evades neutralizing antibodies with high efficiency |Disruptive |
+| 10 |Human fetal brain self-organizes into long-term expanding organoids |Disruptive|
+| 11 |Neutrophil profiling illuminates anti-tumor antigen-presenting potency |Disruptive|
+| 12 |A cryptic plasmid is among the most numerous genetic elements in the human gut |Disruptive|
+| 13 |Structure-based design of non-hypertrophic apelin receptor modulator |Developmental|
+| 14 |Underdetected dispersal and extensive local transmission drove the 2022 mpox epidemic |Disruptive |
+| 15 |Maternal inflammation regulates fetal emergency myelopoiesis |Disruptive|
+| 16 |CRB1-associated retinal degeneration is dependent on bacterial translocation from the gut |Developmental|
+| 17 |Learning attentional templates for value-based decision-making |Disruptive|
+| 18 |A multivalent mRNA monkeypox virus vaccine (BNT166) protects mice and macaques from orthopoxvirus disease |Disruptive|
+| 19 |Xist ribonucleoproteins promote female sex-biased autoimmunity |Developmental|
+| 20 |A retroviral link to vertebrate myelination through retrotransposon-RNA-mediated control of myelin gene expression |Disruptive|
+| 21 |Inosine induces stemness features in CAR-T cells and enhances potency |Disruptive|
+| 22 |A comprehensive clinically informed map of dependencies in cancer cells and framework for target prioritization |Disruptive|
+| 23 |Interferon-stimulated neutrophils as a predictor of immunotherapy response |Disruptive|
+| 24 |Multi-omic profiling of follicular lymphoma reveals changes in tissue architecture and enhanced stromal remodeling in high-risk patients |Disruptive|
+| 25 |PDGFRα+ITGA11+ fibroblasts foster early-stage cancer lymphovascular invasion and lymphatic metastasis via ITGA11-SELE interplay |Disruptive|
+| 26 |Retinoic acid receptor activation reprograms senescence response and enhances anti-tumor activity of natural killer cells |Disruptive|
+| 27 |A living biobank of patient-derived ductal carcinoma in situ mouse-intraductal xenografts identifies risk factors for invasive progression |Developmental|
+| 28 |Interferon-stimulated neutrophils as a predictor of immunotherapy response |Disruptive|
+| 29 |A comprehensive clinically informed map of dependencies in cancer cells and framework for target prioritization |Disruptive|
+| 30 |Antiplasmodial peptaibols act through membrane directed mechanisms |Developmental|
+| 31 |PIM1 targeted degradation prevents the emergence of chemoresistance in prostate cancer |Developmental|
+| 32 |A sterol analog inhibits hedgehog pathway by blocking cholesterylation of smoothened |Developmental|
+| 33 |Allosteric inhibition of tRNA synthetase Gln4 by N-pyrimidinyl-β-thiophenylacrylamides exerts highly selective antifungal activity |Developmental|
+| 34 |CYP7B1-mediated 25-hydroxycholesterol degradation maintains quiescence-activation balance and improves therapeutic potential of mesenchymal stem cells |General|
+| 35 |Identification of differential biological activity and synergy between the PARP inhibitor rucaparib and its major metabolite |Disruptive|
+| 36 |Small molecule targeting of transcription-replication conflict for selective chemotherapy |Developmental|
+| 37 |The cyclimids: Degron-inspired cereblon binders for targeted protein degradation |Developmental|
+| 38 |PIM1 targeted degradation prevents the emergence of chemoresistance in prostate cancer |Developmental|
+
 
 **Table 11 Results on papers published in BMJ Open**  
 (1) Association between leisure sedentary behaviour and uterine fibroids in non-menopausal women: a population-based study  
