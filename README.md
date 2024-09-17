@@ -1,4 +1,5 @@
-# Utilizing Large Language Model for Content-Based Identification of Disruptive and Developmental Research
+# Utilizing Large Model for Content-Based Identification of Disruptive and Developmental Research
+This paper proposed a simple but effective data construction method, which can automatically build a three-class dataset (disruptive, developmental, and consolidating) based on the disruption index (DI). Subsequently, we employed a range of LLM with adapter to train a text classifiert which can effectively distinguish potentially disruptive and developmental research from general reserch. Further experimental results on two evaluation dataset show that our model can differentiate between Nobel Prize papers and randomly matched papers, as well as between newly published papers in journals of varying impact factors (IF). This study not only provides an effective method for timely identifying disruptive research, but also provides guidance for promoting fair scientific evaluation.
 
 ## Nobel evaluation dataset  
 We proposed the Nobel Prize paper evaluation dataset, which includes 80 Nobel Prize papers , 76 other papers authored by Nobel laureates, and 209 random papers. 
