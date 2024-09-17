@@ -126,9 +126,6 @@ def get_SIMILAR_title_abstract_ref_MP(samples_t, top_num=10):
             
 
 def get_SIMILAR_title_abstract_ref(samples_t, batch_size, top_num):
-    """ 获取论文的参考文献的标题和摘要, 
-        并确定top_num的相似文献 
-    """
     client = Client(**params)
     pids_list = list()
     refs_list = list()
@@ -257,12 +254,6 @@ def epsilon_greedy_sample_algorithm(samples, sample_size, epsilon=0.5):
 
 
 def construct_raw_dataset_for_classification():
-    """ pubmed中根据颠覆性得分抽取论文
-        (1) 过滤参考文献不足的论文 - 影响DI的计算 - 重要步骤
-        (2) epsilon-greedy采样, 优先选择取间中间的样本 - 目前无效果
-        (3) c10 * di==0中过滤c10==0的样本 - 无数据证实其是颠覆性或发展性
-        (4) 获取参考文献的摘要 (参考文献作为相似文献, 标题的相似度)
-    """
     client = Client(**params)
     
     for t in np.arange(2000, 2020):
