@@ -6,6 +6,11 @@ This study not only provides an effective method for timely identifying disrupti
 **(3)** Further experimental results on two evaluation datasets show that our model can differentiate between Nobel Prize papers and randomly matched papers, as well as between newly published papers in journals of varying impact factors (IF).   
 **(4)** Our findings also show that evaluating papers based solely on IF is insufficient, and a paper published in a general journal boasting high view counts tend to be disruptive or developmental research. 
 
+## Code
+**(1)** LLM_train_test.py is used to train large language models with QLoRA on our abstract-format balanced datasets.  
+**(2)** DL_train_test.py is used to train deep learning models  on our abstract-format balanced datasets.  
+**(3)** ML_train_test.py is used to train machine learning modesl with TF-IDF on our abstract-format balanced datasets.  
+
 ## Nobel evaluation dataset  
 We proposed the Nobel Prize paper evaluation dataset, which includes 80 Nobel Prize papers , 76 other papers authored by Nobel laureates, and 209 random papers. Please refer to our paper for the specific process of constructing the dataset.
 
