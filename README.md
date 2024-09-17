@@ -1,5 +1,10 @@
 # Utilizing Large Model for Content-Based Identification of Disruptive and Developmental Research
-(1) This paper proposed a simple but effective data construction method, which can automatically build a three-class dataset (disruptive, developmental, and consolidating) based on the disruption index (DI). (2) Subsequently, we employed a range of LLMs with adapter to train a text classifier which can effectively distinguish potentially disruptive and developmental research from general reserch. Further experimental results on two evaluation datasets show that our model can differentiate between Nobel Prize papers and randomly matched papers, as well as between newly published papers in journals of varying impact factors (IF). (3) Our findings also show that evaluating papers based solely on IF is insufficient, and a paper published in a general journal boasting high view counts tend to be disruptive or developmental research. This study not only provides an effective method for timely identifying disruptive research, but also provides guidance for promoting fair scientific evaluation.
+(1) We proposed a simple but effective data construction method, which can automatically build a three-class dataset (disruptive, developmental, and consolidating) based on the disruption index (DI).  
+(2) We employed a range of LLMs with adapter to train a text classifier which can effectively distinguish potentially disruptive and developmental research from general reserch.  
+(3) Further experimental results on two evaluation datasets show that our model can differentiate between Nobel Prize papers and randomly matched papers, as well as between newly published papers in journals of varying impact factors (IF).   
+(4) Our findings also show that evaluating papers based solely on IF is insufficient, and a paper published in a general journal boasting high view counts tend to be disruptive or developmental research. 
+
+This study not only provides an effective method for timely identifying disruptive research, but also provides guidance for promoting fair scientific evaluation.
 
 ## Nobel evaluation dataset  
 We proposed the Nobel Prize paper evaluation dataset, which includes 80 Nobel Prize papers , 76 other papers authored by Nobel laureates, and 209 random papers. 
