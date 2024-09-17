@@ -7,7 +7,7 @@ This study not only provides an effective method for timely identifying disrupti
 **(4)** Our findings also show that evaluating papers based solely on IF is insufficient, and a paper published in a general journal boasting high view counts tend to be disruptive or developmental research. 
 
 ## Nobel evaluation dataset  
-We proposed the Nobel Prize paper evaluation dataset, which includes 80 Nobel Prize papers , 76 other papers authored by Nobel laureates, and 209 random papers. 
+We proposed the Nobel Prize paper evaluation dataset, which includes 80 Nobel Prize papers , 76 other papers authored by Nobel laureates, and 209 random papers. Please refer to our paper for the specific process of constructing the dataset.
 
 <p align="center">
   <img src="https://github.com/WannaLearning/Identifying-disruptive-and-developmental-research-based-purely-on-research-content/blob/main/Figures-git/nobel%20evaluation%20dataset.png" width="60%" alt="Construction process of the Nobel Prize paper evaluation dataset"/>
@@ -17,7 +17,7 @@ We proposed the Nobel Prize paper evaluation dataset, which includes 80 Nobel Pr
 </div>  
 
 ## The newly published paper evaluation dataset  
-We collected 170 recently published papers, most of which were published in 2023 or 2024, to form the newly published paper evaluation dataset. As shown in Figure 3, we randomly selected newly published papers from the official homepages of distinct biomedicine journals. Specifically, we collected 22 papers from JAMA, BMJ Open, Journal of Clinical Medicine (JCM), American Journal of Epidemiology (AJE), and Medical Science Monitor (MSM), respectively. We also gathered 22 papers from Cell and its sub-journals, along with 38 papers from The Lancet and its sub-journals. JAMA, Cell, and The Lancet are top journals with higher IF, while the others are general journals with lower IF.
+We collected 170 recently published papers, most of which were published in 2023 or 2024, to form the newly published paper evaluation dataset. As shown in Figure 3, we randomly selected newly published papers from the official homepages of distinct biomedicine journals. Specifically, we collected 22 papers from *JAMA*,*BMJ Open*, *Journal of Clinical Medicine* (JCM), *American Journal of Epidemiology* (AJE), and *Medical Science Monitor* (MSM), respectively. We also gathered 22 papers from *Cell* and its sub-journals, along with 38 papers from *The Lancet* and its sub-journals. ***JAMA*, *Cell*, and T*he Lancet* are top journals with higher IF, while the others are general journals with lower IF**. Please refer to our paper for the specific process of constructing the dataset.
 
 <p align="center">
   <img src="https://github.com/WannaLearning/Identifying-disruptive-and-developmental-research-based-purely-on-research-content/blob/main/Figures-git/newly%20published%20papers%20evaluation%20dataset.png" width="45%" alt="Construction process of the newly published paper evaluation dataset"/>
