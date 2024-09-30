@@ -1,5 +1,6 @@
 # Utilizing Large Model for Content-Based Identification of Disruptive and Developmental Research  
-This study not only provides an effective method for timely identifying disruptive research, but also provides guidance for promoting fair scientific evaluation.  
+The rapid development of AI nurtures disruptive innovations in science, but whether AI itself can discern disruptive innovations remains under-researched. AI-empowered innovation identification techniques hold immense potential to streamline and accelerate the decision-making processes of scientific evaluation. To this end, this paper leverages the large language model (LLM) to serve as an excellent evaluator of disruptive innovation via the supervised fine-tuning. This study not only provides the AI-driven method for identifying disruptive innovations, but also provides guidance for promoting AI-empowered scientific management.
+
 
 **(1)** We proposed a simple but effective data construction method, which can automatically build a three-class dataset (disruptive, developmental, and consolidating) based on the disruption index (DI).  
 **(2)** We employed a range of LLMs with adapter to train a text classifier which can effectively distinguish potentially disruptive and developmental research from general reserch.  
